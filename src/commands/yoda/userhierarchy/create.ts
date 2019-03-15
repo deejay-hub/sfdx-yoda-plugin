@@ -32,7 +32,7 @@ export default class createhierarchy extends SfdxCommand {
     name: flags.string({char: 'l', description: messages.getMessage('levelsFlagDescription')})
   };
 
-  // Comment this out if your command does not require an org username
+  // Comment this out if your command does nocd t require an org username
   protected static requiresUsername = true;
 
   // Comment this out if your command does not require an org username
