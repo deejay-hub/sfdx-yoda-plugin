@@ -1,0 +1,4 @@
+{
+    "commandDescription": "runs jest tests for lwc",
+    "componentNameDescription": "component to target"
+  }
